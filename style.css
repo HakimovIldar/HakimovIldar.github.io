@@ -1,0 +1,21 @@
+body {
+font-family: sans-serif;
+line-height: 2;
+
+background-color: red;
+color: black;
+
+width: 980px;
+margin: auto;
+}
+
+h1 {
+text-align: center;
+font-size: 40px;
+margin-bottom: 0;
+}
+
+main > h2 {
+text-align: center;
+font-size: 30px;
+}
